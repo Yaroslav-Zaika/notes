@@ -1,0 +1,14 @@
+{
+  "name": "notes",
+  "version": "0.0.1",
+  "dependencies": {
+    "requirejs": "latest",
+    "requirejs-text": "latest",
+    "jquery": "1.12.1",
+    "underscore": "latest",
+    "backbone": "latest",
+    "bootstrap": "3.3.6",
+    "font-awesome": "latest",
+    "backbone.localstorage": "1.1.16"
+  }
+}

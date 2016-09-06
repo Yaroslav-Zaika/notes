@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f3f3f3;
+}
+
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+button#formCategory,
+button#formTag {
+  margin: 10px;
+}
+
+.groupCategories, .blockTag {
+  background: lightgrey;
+  margin: 0 10px 10px;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+ul {
+  margin: 0 0 0 10px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.blockNote {
+  background: #f1f6f9;
+}
+
+form#formAddNote {
+  padding: 10px;
+  border: 1px solid #d5dde5;
+}
+
+input[type='text'] {
+  border: 1px solid #d5dde5;
+  box-shadow: 0px 0px 5px #999999;
+  margin-bottom: 5px;
+}
+
+textarea.form-control {
+  margin-bottom: 10px;
+}
+
+.updateNote {
+  background: red;
+}
+
+.categories {
+  background: #F8F8BD;
+}
+
+.tags {
+  background: #DAFFA0;
+}
+
+.list{
+  height: 1px;
+}
+.listCategories {
+  display: none;
+}
+
+.listTag {
+  display: none;
+}
+
+.color {
+  display: none;
+}
+
+.azure {
+  background: #F0FFFF;
+}
+
+.peachpuff {
+  background: #FFDAB9;
+}
+
+.silver {
+  background: silver;
+}
+
+.lightgrey {
+  background: #D3D3D3;
+}
+
+form#formUpdateNote {
+  margin: 10px;
+}
+
+.blockListNote {
+  background: #f3f3f3;
+  padding-top: 10px;
+}
+
+.listNote {
+  padding-bottom: 5px;
+  margin: 0px 10px -20px;
+}
+
+.titleNote {
+  font-size: 18px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.textNote {
+  padding: 5px;
+  margin: 10px;
+}
+
+.categoryHome {
+  float: left;
+  margin: 0 5px;
+  padding: 5px;
+  background: #F8F8BD;
+  border-radius: 2px;
+}
+
+.errorCaterotyList{
+  background-color: red;
+  padding: 0 5px;
+  border-radius: 2px;
+}
+.tagHome {
+  float: left;
+  margin: 0 5px;
+  padding: 5px;
+  border-radius: 2px;
+  background: #DAFFA0;
+}
+
+.detailsNote {
+  margin: 10px;
+}
+
+.groupNote {
+  margin: 10px;
+}
+
+.blockCategorieTags {
+  padding-left: 15px;
+}
+
+.updateButton {
+  margin: 10px;
+}
+
+.changesNote {
+  margin: 5px;
+  float: left;
+}
+.back{
+  padding: 5px;
+}
